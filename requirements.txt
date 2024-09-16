@@ -1,0 +1,5 @@
+mindsdb_sdk
+pandas
+streamlit
+openai
+python-dotenv
